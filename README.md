@@ -1,2 +1,3 @@
-使用https://github.com/freeok/so-novel.git 作为依赖,增加一个简单的web页面
-java21，前端页面已经打包在jar,使用jdk21,可以直接java -jar 运行,同级目录需要config.ini文件
+使用https://github.com/freeok/so-novel.git 作为依赖,前端vue开发一个简单的搜索下载的web页面。
+后端java21，springboot3，前端页面已经打包在jar,可以直接java -jar 运行,同级目录需要config.ini文件
+运行起来访问ip:32000
